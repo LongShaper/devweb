@@ -1,0 +1,23 @@
+{
+  "name": "webdev",
+  "version": "1.0.0",
+  "description": "blabla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Long",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LongShaper/devweb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LongShaper/devweb/issues"
+  },
+  "homepage": "https://github.com/LongShaper/devweb#readme"
+}
