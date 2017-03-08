@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thierrymichel/heaj.git"
+    "url": "git+https://github.com/LongShaper/devweb.git"
   },
   "keywords": [
     "heaj",
@@ -22,12 +22,12 @@
     "learning",
     "threejs"
   ],
-  "author": "thierrymichel <thmichel@gmail.com> (http://thierrymichel.net)",
+  "author": "Long Chen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thierrymichel/heaj/issues"
+    "url": "https://github.com/LongShaper/devweb/issues"
   },
-  "homepage": "https://github.com/thierrymichel/heaj#readme",
+  "homepage": "https://github.com/LongShaper/devweb#readme",
   "devDependencies": {
     "babel-core": "^6.23.1",
     "babel-eslint": "^7.1.1",
